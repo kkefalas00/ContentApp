@@ -1,0 +1,75 @@
+.form{
+	
+	background-color:cyan;
+	color:black;
+	width:50%;
+	margin-left:25%;
+	margin-top:20px;
+	padding:20px;
+	border:1px solid black;
+	
+}
+
+input{
+	
+	border:1px solid black !important;
+	
+}
+
+.minima {
+	
+	margin-top:20px;
+	width:50%;
+	margin-left:25%;
+	
+}
+
+#min1{
+	
+	margin-top:15px !important;
+	width:20%;
+	margin-left:40%;
+	background-color:blue!important;
+	color:white!important;
+}
+
+.bar{
+	background-color:cyan;
+	
+}
+
+.bar li a{
+	
+	color:black !important;
+	font-size:20pt;
+	
+}
+
+.bar li a:hover{
+	
+	color:blue !important;
+}
+
+#d2{
+	
+	font-size:25pt;
+	width:40%;
+	margin-left:30%;
+	margin-top:100px;
+}
+
+button{
+	
+	color:black !important;
+	border:1px solid black !important;
+}
+
+button :hover{
+	
+	color:blue !important;
+}
+
+li a:active {
+  background-color: white !important;
+  color:black !important;
+}
